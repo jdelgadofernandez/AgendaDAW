@@ -1,0 +1,4 @@
+JOse,Del,675675675,hola@gmail.com,6-4-1990,123a,yododo
+Kong,Del,987649558,hola@gmail.com,6-4-1990,789c,yododo
+JOmo,Del,961532178,hola@gmail.com,6-4-1990,987d,yododo
+antonio,maria,666888111,mario@antonio.es,30-5-1980,12345678a,
